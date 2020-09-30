@@ -20,3 +20,5 @@ https://www.gitkraken.com/download
 * Se debe enviar el tamaño del grafo seguido de el grafo que se quiera evaluar
 * La instruccion que debe seguir el siguiente formato: (4,4){{0,5,INF,10},{INF,0,3,INF},{INF,INF,0,1},{INF,INF,INF,0}} y se debe presionar ENTER para enviar la instrucion al Server.
 * Como respuesta el enviara la instruccion de vuelta para confirmar que ha sido enviada.
+## Documentacion Doxygen
+* https://r3dp4r4d153.github.io/DATOS_II_TAREA_EXTRACLASE_I/html/index.html
