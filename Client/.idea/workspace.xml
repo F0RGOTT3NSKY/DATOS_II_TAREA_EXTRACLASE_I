@@ -43,11 +43,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +56,7 @@
       <workItem from="1601335419339" duration="895000" />
       <workItem from="1601337671033" duration="9022000" />
       <workItem from="1601415250108" duration="11596000" />
+      <workItem from="1601443075900" duration="938000" />
     </task>
     <servers />
   </component>
@@ -68,11 +64,11 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601415564345">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601443440028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-903" y="105" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601339109956" />
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601415564345" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601443440028" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601441951518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

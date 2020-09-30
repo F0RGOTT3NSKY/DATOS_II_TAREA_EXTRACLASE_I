@@ -7,16 +7,16 @@
 
 using namespace std;
 
-/* Define Infinite as a large enough
+/** Define Infinite as a large enough
 value.This value will be used for
 vertices not connected to each other */
 #define INF 99999
 
-// A function to print the solution matrix
+/** A function to print the solution matrix*/
 void printSolution(int* dist, int x, int y);
-// A function to find the shortest distance between every pair of vertices
+/** A function to find the shortest distance between every pair of vertices*/
 void floydWarshall (int* graph, int x, int y);
-// A function to convert the string received from the client to a graph
+/** A function to convert the string received from the client to a graph*/
 void convertToGraph(std::string);
 
 int main(){
