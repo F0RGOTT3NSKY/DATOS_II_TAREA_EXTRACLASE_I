@@ -1,0 +1,3 @@
+C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug/CMakeFiles/Server.dir
+C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

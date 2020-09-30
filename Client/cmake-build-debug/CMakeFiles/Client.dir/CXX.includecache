@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Client/main.cpp
+iostream
+-
+WS2tcpip.h
+-
+string
+-
+stdio.h
+-
+
