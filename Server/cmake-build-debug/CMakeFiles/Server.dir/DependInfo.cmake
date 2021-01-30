@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/main.cpp" "C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug/CMakeFiles/Server.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

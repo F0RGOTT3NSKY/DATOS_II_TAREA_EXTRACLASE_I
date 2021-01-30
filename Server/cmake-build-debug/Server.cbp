@@ -4,7 +4,7 @@
 	<Project>
 		<Option title="Server"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="msvc8"/>
+		<Option compiler="clang"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
@@ -22,17 +22,8 @@
 				<Option working_dir="C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="msvc8"/>
-				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
-				</Compiler>
+				<Option compiler="clang"/>
+				<Compiler/>
 				<MakeCommands>
 					<Build command="nmake /NOLOGO /f C:\GitHub\DATOS_II_TAREA_EXTRACLASE_I\Server\cmake-build-debug\Makefile VERBOSE=1 Server"/>
 					<CompileFile command="nmake /NOLOGO /f C:\GitHub\DATOS_II_TAREA_EXTRACLASE_I\Server\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
@@ -45,17 +36,8 @@
 				<Option working_dir="C:/GitHub/DATOS_II_TAREA_EXTRACLASE_I/Server/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="msvc8"/>
-				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
-				</Compiler>
+				<Option compiler="clang"/>
+				<Compiler/>
 				<MakeCommands>
 					<Build command="nmake /NOLOGO /f C:\GitHub\DATOS_II_TAREA_EXTRACLASE_I\Server\cmake-build-debug\Makefile VERBOSE=1 Server/fast"/>
 					<CompileFile command="nmake /NOLOGO /f C:\GitHub\DATOS_II_TAREA_EXTRACLASE_I\Server\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>

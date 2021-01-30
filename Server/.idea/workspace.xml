@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="Server" targetName="Server" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -20,7 +21,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -36,11 +36,22 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
     <configuration name="Server" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Server" TARGET_NAME="Server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Server" RUN_TARGET_NAME="Server">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -60,6 +71,8 @@
       <workItem from="1601358791158" duration="11616000" />
       <workItem from="1601415566983" duration="18413000" />
       <workItem from="1601443443315" duration="591000" />
+      <workItem from="1612040107622" duration="1613000" />
+      <workItem from="1612042007444" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -67,48 +80,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2105" y="261" key="FileChooserDialogImpl" timestamp="1601433420860">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612042066611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-840" y="183" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601258655223" />
-    <state x="2105" y="261" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601433420860" />
-    <state x="740" y="261" key="FileChooserDialogImpl/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601181286878" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1601441930978">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612042066611" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612041781732" />
+    <state x="846" y="305" key="FileChooserDialogImpl" timestamp="1612045260963">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601261041826" />
-    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601419460371" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601441930978" />
-    <state width="1877" height="152" key="GridCell.Tab.0.bottom/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601184381735" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1601441930978">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="846" y="305" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612045260963" />
+    <state x="567" y="196" width="998" height="709" key="SettingsEditor" timestamp="1612045324618">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601261041826" />
-    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601419460371" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601441930978" />
-    <state width="1877" height="152" key="GridCell.Tab.0.center/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601184381735" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1601441930977">
-      <screen x="1366" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601261041825" />
-    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601419460371" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601441930977" />
-    <state width="1877" height="152" key="GridCell.Tab.0.left/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601184381735" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1601441930978">
-      <screen x="1366" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1601261041826" />
-    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601419460371" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601441930978" />
-    <state width="1877" height="152" key="GridCell.Tab.0.right/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601184381735" />
-    <state x="1939" y="211" key="refactoring.ChangeSignatureDialog" timestamp="1601434285588">
-      <screen x="1366" y="0" width="1920" height="1040" />
-    </state>
-    <state x="408" y="148" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601341575697" />
-    <state x="1939" y="211" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601434285588" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601343520329">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601343520329" />
+    <state x="567" y="196" width="998" height="709" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612045324618" />
   </component>
 </project>
